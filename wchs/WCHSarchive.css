@@ -1,0 +1,13 @@
+@charset "utf-8";
+header {
+	font-size: 350%;
+	font: "normal";
+	text-align: center;
+	background-color: #C5B358;
+	color: white;
+	border-style: solid;
+}
+body img {
+	text-align: center;
+	padding-left: 45%;
+}
